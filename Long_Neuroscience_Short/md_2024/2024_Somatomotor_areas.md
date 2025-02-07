@@ -3,19 +3,7 @@
 # Summary of 2024 Publications: Functions in Somatomotor areas   
 
 
-```
-Function: <concise function name>
-Description: <5–10 lines describing the function>
-Article mentioning the function: <PMID>, <PMID>…
-Article studying this function:
-<PMID>: <shortened title …>
-<PMID>: <shortened title …>
-…
-Article proposing this function as new (or emphasizing a novel mechanism):
-<PMID>: <shortened title …>
-<PMID>: <shortened title …>
-…
-```
+
 
 ---
 
