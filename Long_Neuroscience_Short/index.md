@@ -5,7 +5,7 @@
 
 This mini-review compiles findings on mouse brain regions from **2024 publications** sourced through PubMed abstracts in selected journals. These summaries were generated using a **large language model (LLM)**, which, despite its advanced capabilities, can sometimes produce factual or interpretive errors. We therefore encourage readers to verify key information with the original research articles.
 
-Our current work focuses exclusively on **2024 data**. With sufficient **financial support**, we aim to expand coverage to include **prior years** (e.g., 2023 and earlier), extend the approach to **human brain** research, and delve into **connectivity and network analyses**. The computational resources required to maintain and broaden this project are substantial. If you find this overview valuable, please consider **contributing financially** to help us enhance the scope, accuracy, and utility of these reviews. We appreciate your interest and support in advancing scientific knowledge through innovative, LLM-assisted summaries.
+Our current work focuses exclusively on **2024 data**. With sufficient **financial support**, we aim to expand coverage to include **prior years** (e.g., 2023 and earlier), extend the approach to **human brain** research, and delve into **connectivity and network analyses**. The computational resources required to maintain and broaden this project are substantial. If you find this overview valuable, please consider **contributing financially** to help us enhance the scope, accuracy, and utility of these reviews. We appreciate your interest and support in advancing the accessibility of scientific knowledge through innovative summaries.
 
 ---
 
