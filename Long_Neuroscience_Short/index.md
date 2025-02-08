@@ -52,7 +52,7 @@ Our current work focuses exclusively on **2024 data**. With sufficient **financi
   - Retrohippocampal region [2024](md_2024/2024_Retrohippocampal_region.md)
 
 - **Olfactory**  
-  - Olfactory Areas (olfactory bulb / piriform cortex) [2024](md_2024/2024_Olfactory_Areas_(olfactory_bulb_piriform_cortex).md)
+  - Olfactory Areas (olfactory bulb / piriform cortex) [2024](<md_2024/2024_Olfactory_Areas_(olfactory_bulb_piriform_cortex).md>)
 
 #### Hippocampal Formation
 
@@ -71,7 +71,7 @@ Our current work focuses exclusively on **2024 data**. With sufficient **financi
 
 #### Basal Ganglia (Cerebral Nuclei)
 
-- Cerebral Nuclei (basal ganglia or subpallial nuclei) [2024](md_2024/2024_Cerebral_Nuclei_(basal_ganglia_or_subpallial_nuclei).md)  
+- Cerebral Nuclei (basal ganglia or subpallial nuclei) [2024](<md_2024/2024_Cerebral_Nuclei_(basal_ganglia_or_subpallial_nuclei).md>)  
 - Striatum [2024](md_2024/2024_Striatum.md)  
 - Pallidum [2024](md_2024/2024_Pallidum.md)  
 
