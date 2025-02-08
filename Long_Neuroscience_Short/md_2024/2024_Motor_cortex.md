@@ -1,5 +1,3 @@
-# Summary of Functions in Motor cortex
-
 # Summary of 2024 Publications: Functions in Motor cortex   
 
 

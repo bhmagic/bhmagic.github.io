@@ -1,5 +1,3 @@
-# Summary of Functions in Agranular insular area
-
 # Summary of 2024 Publications: Functions in Agranular insular area   
 
 

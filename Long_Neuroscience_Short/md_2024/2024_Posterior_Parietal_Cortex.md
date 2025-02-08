@@ -1,5 +1,3 @@
-# Summary of Functions in Posterior Parietal Cortex
-
 # Summary of 2024 Publications: Functions in Posterior Parietal Cortex   
 
 

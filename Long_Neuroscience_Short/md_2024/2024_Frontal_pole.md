@@ -1,5 +1,3 @@
-# Summary of Functions in Frontal pole
-
 # Summary of 2024 Publications: Functions in Frontal pole   
 
 

@@ -1,5 +1,3 @@
-# Summary of Functions in Somatosensory areas
-
 # Summary of 2024 Publications: Functions in Somatosensory areas   
 
 

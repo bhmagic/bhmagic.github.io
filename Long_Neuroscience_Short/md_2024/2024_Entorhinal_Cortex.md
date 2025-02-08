@@ -1,5 +1,3 @@
-# Summary of Functions in Entorhinal Cortex
-
 # Summary of 2024 Publications: Functions in Entorhinal Cortex   
 
 

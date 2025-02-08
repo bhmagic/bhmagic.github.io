@@ -1,5 +1,3 @@
-# Summary of Functions in Somatosensory Cortex
-
 # Summary of 2024 Publications: Functions in Somatosensory Cortex   
 
 

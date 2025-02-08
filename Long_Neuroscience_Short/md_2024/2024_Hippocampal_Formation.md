@@ -1,5 +1,3 @@
-# Summary of Functions in Hippocampal Formation
-
 # Summary of 2024 Publications: Functions in Hippocampal Formation   
 
 

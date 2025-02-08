@@ -1,5 +1,3 @@
-# Summary of Functions in Claustrum
-
 # Summary of 2024 Publications: Functions in Claustrum   
 
 

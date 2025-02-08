@@ -1,5 +1,3 @@
-# Summary of Functions in Hippocampo-amygdalar transition area
-
 # Summary of 2024 Publications: Functions in Hippocampo-amygdalar transition area   
 
 ---

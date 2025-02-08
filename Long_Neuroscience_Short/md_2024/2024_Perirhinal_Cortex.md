@@ -1,5 +1,3 @@
-# Summary of Functions in Perirhinal Cortex
-
 # Summary of 2024 Publications: Functions in Perirhinal Cortex   
 
 ## 1. **Involvement in Learning and Memory**

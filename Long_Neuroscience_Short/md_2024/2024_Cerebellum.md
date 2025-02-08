@@ -1,5 +1,3 @@
-# Summary of Functions in Cerebellum
-
 # Summary of 2024 Publications: Functions in Cerebellum   
 
 

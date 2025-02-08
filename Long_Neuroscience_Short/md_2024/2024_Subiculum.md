@@ -1,5 +1,3 @@
-# Summary of Functions in Subiculum
-
 # Summary of 2024 Publications: Functions in Subiculum   
 
 Below is a consolidated list of subiculum functions as derived **only** from the provided 2024 abstracts that explicitly mention the subiculum. Two abstracts (PMID: 38503494 and PMID: 38810639) discuss the subiculum’s roles. The other abstracts do not mention or investigate the subiculum.  

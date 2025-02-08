@@ -1,5 +1,3 @@
-# Summary of Functions in Visual Cortex
-
 # Summary of 2024 Publications: Functions in Visual Cortex   
 
 

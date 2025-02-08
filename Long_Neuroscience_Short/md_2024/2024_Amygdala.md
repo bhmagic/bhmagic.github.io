@@ -1,5 +1,3 @@
-# Summary of Functions in Amygdala
-
 # Summary of 2024 Publications: Functions in Amygdala   
 
 

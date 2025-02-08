@@ -1,5 +1,3 @@
-# Summary of Functions in Orbital area
-
 # Summary of 2024 Publications: Functions in Orbital area   
 
 

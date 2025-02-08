@@ -1,5 +1,3 @@
-# Summary of Functions in Postsubiculum
-
 # Summary of 2024 Publications: Functions in Postsubiculum   
 
 

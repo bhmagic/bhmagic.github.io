@@ -1,5 +1,3 @@
-# Summary of Functions in Posterior parietal association areas
-
 # Summary of 2024 Publications: Functions in Posterior parietal association areas   
 
 

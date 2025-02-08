@@ -1,5 +1,3 @@
-# Summary of Functions in Hindbrain (Rhombencephalon)
-
 # Summary of 2024 Publications: Functions in Hindbrain (Rhombencephalon)   
 
 

@@ -1,5 +1,3 @@
-# Summary of Functions in Pallidum
-
 # Summary of 2024 Publications: Functions in Pallidum   
 
 Below is the requested reformatting following the example style, with **clickable PubMed links** and PMIDs in bold text.

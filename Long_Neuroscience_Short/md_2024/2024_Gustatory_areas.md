@@ -1,5 +1,3 @@
-# Summary of Functions in Gustatory areas
-
 # Summary of 2024 Publications: Functions in Gustatory areas   
 
 ## 1. **Taste Coding and Decision Making**

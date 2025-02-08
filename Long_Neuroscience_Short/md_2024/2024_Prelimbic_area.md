@@ -1,5 +1,3 @@
-# Summary of Functions in Prelimbic area
-
 # Summary of 2024 Publications: Functions in Prelimbic area   
 
 

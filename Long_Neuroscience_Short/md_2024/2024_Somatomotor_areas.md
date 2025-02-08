@@ -1,5 +1,3 @@
-# Summary of Functions in Somatomotor areas
-
 # Summary of 2024 Publications: Functions in Somatomotor areas   
 
 

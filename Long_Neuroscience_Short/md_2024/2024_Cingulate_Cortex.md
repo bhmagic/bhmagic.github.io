@@ -1,5 +1,3 @@
-# Summary of Functions in Cingulate Cortex
-
 # Summary of 2024 Publications: Functions in Cingulate Cortex   
 
 

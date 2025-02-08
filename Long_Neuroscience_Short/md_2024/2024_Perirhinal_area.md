@@ -1,5 +1,3 @@
-# Summary of Functions in Perirhinal area
-
 # Summary of 2024 Publications: Functions in Perirhinal area   
 
 

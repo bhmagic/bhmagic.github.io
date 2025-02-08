@@ -1,5 +1,3 @@
-# Summary of Functions in Hypothalamus
-
 # Summary of 2024 Publications: Functions in Hypothalamus   
 
 

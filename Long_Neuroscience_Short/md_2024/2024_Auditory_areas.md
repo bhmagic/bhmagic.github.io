@@ -1,5 +1,3 @@
-# Summary of Functions in Auditory areas
-
 # Summary of 2024 Publications: Functions in Auditory areas   
 
 

@@ -1,5 +1,3 @@
-# Summary of Functions in Lateral amygdalar nucleus
-
 # Summary of 2024 Publications: Functions in Lateral amygdalar nucleus   
 
 

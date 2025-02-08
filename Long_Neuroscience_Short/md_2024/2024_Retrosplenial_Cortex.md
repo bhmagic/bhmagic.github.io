@@ -1,5 +1,3 @@
-# Summary of Functions in Retrosplenial Cortex
-
 # Summary of 2024 Publications: Functions in Retrosplenial Cortex   
 
 

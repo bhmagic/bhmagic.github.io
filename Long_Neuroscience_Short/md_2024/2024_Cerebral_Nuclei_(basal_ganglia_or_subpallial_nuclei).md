@@ -1,5 +1,3 @@
-# Summary of Functions in Cerebral Nuclei (basal ganglia or subpallial nuclei)
-
 # Summary of 2024 Publications: Functions in Cerebral Nuclei (basal ganglia or subpallial nuclei)   
 
 

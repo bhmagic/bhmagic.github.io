@@ -1,5 +1,3 @@
-# Summary of Functions in Frontal cortex
-
 # Summary of 2024 Publications: Functions in Frontal cortex   
 
 

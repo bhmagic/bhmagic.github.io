@@ -1,5 +1,3 @@
-# Summary of Functions in Dentate gyrus
-
 # Summary of 2024 Publications: Functions in Dentate gyrus   
 
 

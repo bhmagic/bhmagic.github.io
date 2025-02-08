@@ -1,5 +1,3 @@
-# Summary of Functions in Temporal association areas
-
 # Summary of 2024 Publications: Functions in Temporal association areas   
 
 

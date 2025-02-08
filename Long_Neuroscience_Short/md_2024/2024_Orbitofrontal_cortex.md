@@ -1,5 +1,3 @@
-# Summary of Functions in Orbitofrontal cortex
-
 # Summary of 2024 Publications: Functions in Orbitofrontal cortex   
 
 

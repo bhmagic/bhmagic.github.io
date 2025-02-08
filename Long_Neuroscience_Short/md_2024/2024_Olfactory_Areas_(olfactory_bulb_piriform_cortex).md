@@ -1,5 +1,3 @@
-# Summary of Functions in Olfactory Areas (olfactory bulb piriform cortex)
-
 # Summary of 2024 Publications: Functions in Olfactory Areas (olfactory bulb piriform cortex)   
 
 

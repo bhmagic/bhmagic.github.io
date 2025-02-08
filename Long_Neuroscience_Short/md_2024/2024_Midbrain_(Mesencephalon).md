@@ -1,5 +1,3 @@
-# Summary of Functions in Midbrain (Mesencephalon)
-
 # Summary of 2024 Publications: Functions in Midbrain (Mesencephalon)   
 
 

@@ -1,5 +1,3 @@
-# Summary of Functions in Striatum
-
 # Summary of 2024 Publications: Functions in Striatum   
 
 

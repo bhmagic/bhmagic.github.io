@@ -1,5 +1,3 @@
-# Summary of Functions in Retrohippocampal region
-
 # Summary of 2024 Publications: Functions in Retrohippocampal region   
 
 

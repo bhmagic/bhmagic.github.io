@@ -1,5 +1,3 @@
-# Summary of Functions in Infralimbic area
-
 # Summary of 2024 Publications: Functions in Infralimbic area   
 
 
