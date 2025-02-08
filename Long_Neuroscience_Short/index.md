@@ -52,7 +52,7 @@ Our current work focuses exclusively on **2024 data**. With sufficient **financi
   - Retrohippocampal region [2024](md_2024/2024_Retrohippocampal_region.md)
 
 - **Olfactory**  
-  - Olfactory Areas (olfactory bulb / piriform cortex) [2024](<md_2024/2024_Olfactory_Areas_(olfactory_bulb_piriform_cortex).md>)
+  - Olfactory Areas (olfactory bulb / piriform cortex) [2024](md_2024/2024_Olfactory_Areas.md)
 
 #### Hippocampal Formation
 
@@ -71,7 +71,7 @@ Our current work focuses exclusively on **2024 data**. With sufficient **financi
 
 #### Basal Ganglia (Cerebral Nuclei)
 
-- Cerebral Nuclei (basal ganglia or subpallial nuclei) [2024](<md_2024/2024_Cerebral_Nuclei_(basal_ganglia_or_subpallial_nuclei).md>)  
+- Cerebral Nuclei (basal ganglia or subpallial nuclei) [2024](md_2024/2024_Cerebral_Nuclei.md)  
 - Striatum [2024](md_2024/2024_Striatum.md)  
 - Pallidum [2024](md_2024/2024_Pallidum.md)  
 
@@ -88,13 +88,13 @@ Our current work focuses exclusively on **2024 data**. With sufficient **financi
 
 ## Midbrain (Mesencephalon)
 
-- Midbrain (Mesencephalon) [2024](md_2024/2024_Midbrain_(Mesencephalon).md)
+- Midbrain (Mesencephalon) [2024](md_2024/2024_Midbrain.md)
 
 ---
 
 ## Hindbrain (Rhombencephalon)
 
-- Hindbrain (Rhombencephalon) [2024](md_2024/2024_Hindbrain_(Rhombencephalon).md)  
+- Hindbrain (Rhombencephalon) [2024](md_2024/2024_Hindbrain.md)  
 - Cerebellum [2024](md_2024/2024_Cerebellum.md)  
 - **Pons** (coming soon)  
 - **Medulla oblongata** (coming soon)
